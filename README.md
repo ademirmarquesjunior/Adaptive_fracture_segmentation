@@ -20,6 +20,8 @@ The identification of fractures and discontinuities has great importance on the 
 
 [DOI: 10.1109/ACCESS.2022.3151897](https://doi.org/10.1109/ACCESS.2022.3151897)
 
+<img src="https://ieeexplore.ieee.org/ielx7/6287639/9668973/9714365/graphical_abstract/access-gagraphic-3151897.jpg" width="500" alt="Fracture characterization">
+
 
 
 ## Installation
